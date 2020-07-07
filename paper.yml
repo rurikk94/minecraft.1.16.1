@@ -11,7 +11,6 @@
 # Docs: https://paper.readthedocs.org/ 
 
 verbose: false
-allow-perm-block-break-exploits: false
 config-version: 20
 settings:
   load-permissions-yml-before-plugins: true
@@ -26,7 +25,14 @@ settings:
   bungee-online-mode: true
   save-player-data: true
   unsupported-settings:
+    allow-permanent-block-break-exploits: false
     allow-piston-duplication: false
+    allow-piston-duplication-readme: This setting controls if player should be able
+      to use TNT duplication, but this also allows duplicating carpet, rails and potentially
+      other items
+    allow-permanent-block-break-exploits-readme: This setting controls if players
+      should be able to break bedrock, end portals and other intended to be permanent
+      blocks.
   watchdog:
     early-warning-every: 5000
     early-warning-delay: 10000
