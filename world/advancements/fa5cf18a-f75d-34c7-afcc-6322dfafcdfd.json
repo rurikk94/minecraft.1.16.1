@@ -493,10 +493,17 @@
       "minecraft:spider": "2020-07-04 18:38:37 -0400",
       "minecraft:creeper": "2020-07-04 19:56:47 -0400",
       "minecraft:piglin": "2020-07-05 00:44:04 -0400",
+      "minecraft:stray": "2020-07-07 20:38:28 -0400",
       "minecraft:zombie": "2020-06-30 20:42:42 -0400",
       "minecraft:zombie_villager": "2020-07-04 19:54:26 -0400"
     },
     "done": false
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2020-07-07 19:57:40 -0400"
+    },
+    "done": true
   },
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
@@ -1134,7 +1141,8 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:crimson_forest": "2020-07-05 00:38:09 -0400"
+      "minecraft:crimson_forest": "2020-07-05 00:38:09 -0400",
+      "minecraft:nether_wastes": "2020-07-07 20:09:38 -0400"
     },
     "done": false
   },
@@ -1213,6 +1221,12 @@
   "minecraft:recipes/food/cooked_mutton": {
     "criteria": {
       "has_mutton": "2020-07-05 01:12:23 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2020-07-07 20:38:07 -0400"
     },
     "done": true
   },
@@ -1378,6 +1392,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_brown_mushroom": "2020-07-07 20:38:07 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_wool": {
     "criteria": {
       "has_white_wool": "2020-06-30 20:35:07 -0400"
@@ -1407,7 +1427,8 @@
       "cooked_porkchop": "2020-07-05 01:00:07 -0400",
       "cooked_beef": "2020-07-05 20:27:13 -0400",
       "cooked_chicken": "2020-06-30 20:34:38 -0400",
-      "cooked_salmon": "2020-06-30 20:37:24 -0400"
+      "cooked_salmon": "2020-06-30 20:37:24 -0400",
+      "carrot": "2020-07-07 20:35:51 -0400"
     },
     "done": false
   },
@@ -1725,6 +1746,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2020-07-07 20:38:07 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
     "criteria": {
       "has_salmon": "2020-06-30 20:36:24 -0400"
@@ -1860,6 +1887,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
     "criteria": {
       "has_polished_blackstone_bricks": "2020-07-06 22:12:51 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2020-07-07 20:32:57 -0400"
     },
     "done": true
   },
@@ -2169,6 +2202,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2020-07-07 21:10:16 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
       "has_stone": "2020-06-30 20:45:15 -0400"
@@ -2205,6 +2244,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2020-07-07 20:32:57 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2020-07-06 22:08:48 -0400"
@@ -2220,6 +2265,12 @@
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2020-06-30 20:35:37 -0400"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2020-07-07 19:55:05 -0400"
     },
     "done": true
   },
@@ -2304,6 +2355,12 @@
   "minecraft:husbandry/breed_an_animal": {
     "criteria": {
       "bred": "2020-07-04 22:32:11 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
+    "criteria": {
+      "has_warped_fungus": "2020-07-07 20:38:07 -0400"
     },
     "done": true
   },
