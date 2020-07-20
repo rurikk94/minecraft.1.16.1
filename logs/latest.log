@@ -1,79 +1,16 @@
-[19:42:05] [User Authenticator #10/INFO]: UUID of player Rulo is 4f634ae0-abc6-3334-8868-5cfba3aec8a4
-[19:42:05] [Server thread/INFO]: Rulo joined the game
-[19:42:05] [Server thread/INFO]: Rulo[/186.11.17.235:41549] logged in with entity id 23803 at ([world]-350.63483379905114, 63.0, -113.43907038137331)
-[19:42:38] [Server thread/INFO]: Rulo lost connection: Timed out
-[19:42:38] [Server thread/INFO]: Rulo left the game
-[19:42:55] [User Authenticator #10/INFO]: UUID of player Rulo is 4f634ae0-abc6-3334-8868-5cfba3aec8a4
-[19:42:55] [Server thread/INFO]: Rulo joined the game
-[19:42:55] [Server thread/INFO]: Rulo[/186.11.17.235:41546] logged in with entity id 23858 at ([world]-350.63483379905114, 63.0, -113.43907038137331)
-[19:43:28] [Server thread/INFO]: Rulo lost connection: Timed out
-[19:43:28] [Server thread/INFO]: Rulo left the game
-[19:43:31] [User Authenticator #10/INFO]: UUID of player Rulo is 4f634ae0-abc6-3334-8868-5cfba3aec8a4
-[19:43:31] [Server thread/INFO]: Rulo joined the game
-[19:43:31] [Server thread/INFO]: Rulo[/186.11.17.235:41502] logged in with entity id 23913 at ([world]-350.63483379905114, 63.0, -113.43907038137331)
-[19:44:02] [Server thread/INFO]: Rulo lost connection: Disconnected
-[19:44:02] [Server thread/INFO]: Rulo left the game
-[19:45:19] [User Authenticator #11/INFO]: UUID of player Rulo is 4f634ae0-abc6-3334-8868-5cfba3aec8a4
-[19:45:19] [Server thread/INFO]: Rulo joined the game
-[19:45:19] [Server thread/INFO]: Rulo[/186.11.17.235:41547] logged in with entity id 23972 at ([world]-350.63483379905114, 63.0, -113.43907038137331)
-[19:46:04] [Server thread/WARN]: Rulo was kicked due to keepalive timeout!
-[19:46:04] [Server thread/INFO]: Rulo lost connection: Timed out
-[19:46:04] [Server thread/INFO]: Rulo left the game
-[19:46:38] [User Authenticator #12/INFO]: UUID of player Rulo is 4f634ae0-abc6-3334-8868-5cfba3aec8a4
-[19:46:38] [Server thread/INFO]: Rulo joined the game
-[19:46:38] [Server thread/INFO]: Rulo[/186.11.17.235:41538] logged in with entity id 24042 at ([world]-353.2991911055836, 64.0, -112.9405312009037)
-[21:34:15] [Server thread/INFO]: Rulo was blown up by Creeper
-[21:34:58] [Server thread/WARN]: Rulo was kicked due to keepalive timeout!
-[21:34:58] [Server thread/INFO]: Rulo lost connection: Timed out
-[21:34:58] [Server thread/INFO]: Rulo left the game
-[21:35:30] [User Authenticator #13/INFO]: UUID of player Rulo is 4f634ae0-abc6-3334-8868-5cfba3aec8a4
-[21:35:30] [Server thread/INFO]: Rulo joined the game
-[21:35:30] [Server thread/INFO]: Rulo[/186.11.17.235:41474] logged in with entity id 36660 at ([world]-368.48023265486125, 60.0, -118.18710579203406)
-[21:35:34] [Server thread/INFO]: Rulo was blown up by Creeper
-[21:36:15] [Server thread/WARN]: Rulo was kicked due to keepalive timeout!
-[21:36:15] [Server thread/INFO]: Rulo lost connection: Timed out
-[21:36:15] [Server thread/INFO]: Rulo left the game
-[21:36:49] [User Authenticator #14/INFO]: UUID of player Rulo is 4f634ae0-abc6-3334-8868-5cfba3aec8a4
-[21:36:49] [Server thread/INFO]: Rulo joined the game
-[21:36:49] [Server thread/INFO]: Rulo[/186.11.17.235:41478] logged in with entity id 36704 at ([world]-368.48023265486125, 60.0, -118.18710579203406)
-[21:37:34] [Server thread/WARN]: Rulo was kicked due to keepalive timeout!
-[21:37:34] [Server thread/INFO]: Rulo lost connection: Timed out
-[21:37:34] [Server thread/INFO]: Rulo left the game
-[21:37:52] [User Authenticator #15/INFO]: UUID of player Rulo is 4f634ae0-abc6-3334-8868-5cfba3aec8a4
-[21:37:53] [Server thread/INFO]: Rulo joined the game
-[21:37:53] [Server thread/INFO]: Rulo[/186.11.17.235:41545] logged in with entity id 36706 at ([world]-368.48023265486125, 60.0, -118.18710579203406)
-[21:39:21] [Server thread/WARN]: Rulo was kicked due to keepalive timeout!
-[21:39:21] [Server thread/INFO]: Rulo lost connection: Timed out
-[21:39:21] [Server thread/INFO]: Rulo left the game
-[21:39:54] [User Authenticator #16/INFO]: UUID of player Rulo is 4f634ae0-abc6-3334-8868-5cfba3aec8a4
-[21:39:55] [Server thread/INFO]: Rulo joined the game
-[21:39:55] [Server thread/INFO]: Rulo[/186.11.17.235:41472] logged in with entity id 36804 at ([world]-349.24024405129524, 63.0, -114.08165356488405)
-[21:40:40] [Server thread/WARN]: Rulo was kicked due to keepalive timeout!
-[21:40:40] [Server thread/INFO]: Rulo lost connection: Timed out
-[21:40:40] [Server thread/INFO]: Rulo left the game
-[21:41:09] [User Authenticator #17/INFO]: UUID of player Rulo is 4f634ae0-abc6-3334-8868-5cfba3aec8a4
-[21:41:09] [Server thread/INFO]: Rulo joined the game
-[21:41:09] [Server thread/INFO]: Rulo[/186.11.17.235:41540] logged in with entity id 36883 at ([world]-349.24024405129524, 63.0, -114.08165356488405)
-[21:41:44] [Server thread/INFO]: Rulo lost connection: Timed out
-[21:41:44] [Server thread/INFO]: Rulo left the game
-[21:41:53] [User Authenticator #17/INFO]: UUID of player Rulo is 4f634ae0-abc6-3334-8868-5cfba3aec8a4
-[21:41:53] [Server thread/INFO]: Rulo joined the game
-[21:41:53] [Server thread/INFO]: Rulo[/186.11.17.235:41544] logged in with entity id 36946 at ([world]-349.24024405129524, 63.0, -114.08165356488405)
-[21:42:25] [Server thread/INFO]: Rulo lost connection: Disconnected
-[21:42:25] [Server thread/INFO]: Rulo left the game
-[21:46:18] [Server thread/INFO]: Stopping the server
-[21:46:18] [Server thread/INFO]: Stopping server (Ignore any thread death message you see! - DO NOT REPORT THREAD DEATH TO PAPER)
-[21:46:18] [Server thread/INFO]: Saving players
-[21:46:18] [Server thread/INFO]: Saving worlds
-[21:46:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[21:46:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[21:46:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[21:46:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[21:46:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[21:46:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[21:46:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[21:46:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[21:46:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[21:46:18] [Server thread/INFO]: Flushing Chunk IO
-[21:46:18] [Server thread/INFO]: Closing Thread Pool
-[21:46:18] [Server thread/INFO]: Closing Server
+[22:52:41] [Server thread/INFO]: Stopping the server
+[22:52:41] [Server thread/INFO]: Stopping server (Ignore any thread death message you see! - DO NOT REPORT THREAD DEATH TO PAPER)
+[22:52:41] [Server thread/INFO]: Saving players
+[22:52:41] [Server thread/INFO]: Saving worlds
+[22:52:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[22:52:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22:52:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[22:52:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:52:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[22:52:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:52:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22:52:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:52:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:52:41] [Server thread/INFO]: Flushing Chunk IO
+[22:52:41] [Server thread/INFO]: Closing Thread Pool
+[22:52:41] [Server thread/INFO]: Closing Server
